@@ -49,7 +49,7 @@ play (questionOne,answerOne);
 console.log("----------------------------")
 
 
-var questionTwo = ("where do i stay?  ");
+var questionTwo = ("where do VINEETH stay?  ");
 var answerTwo = ("bellary");
 
 play (questionTwo,answerTwo);
@@ -57,7 +57,7 @@ play (questionTwo,answerTwo);
 console.log("----------------------------")
 
 
-var questionThree = ("which Bike do I use?  ");
+var questionThree = ("which Bike do VINEETH use?  ");
 var answerThree = ("avenger");
 
 play (questionThree,answerThree);
